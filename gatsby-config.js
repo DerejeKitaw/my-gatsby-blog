@@ -15,7 +15,7 @@ module.exports = {
       summary: `Test`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://derejekitaw.github.io/my-gatsby-blog/`,
     social: {
       twitter: `Dereje`,
     },
