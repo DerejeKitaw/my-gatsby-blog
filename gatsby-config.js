@@ -11,13 +11,13 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Dereje Kitaw`,
+      summary: `Test`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Dereje`,
     },
   },
   plugins: [
@@ -122,4 +122,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: "/my-gatsby-blog"
 }
